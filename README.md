@@ -15,4 +15,6 @@ Every file on this shelf is listed, with its size and length, in `MANIFEST.csv`.
 
 The shelves by their settled names: the text of the whole Bible stands at [Clear English Bible](https://github.com/roberttilford19-sketch/clear-english-bible); the Old Testament readings stand at [Clear English Bible — Old Testament Audio](https://github.com/roberttilford19-sketch/clear-english-bible-audio-ot); this shelf is [Clear English Bible — New Testament Audio](https://github.com/roberttilford19-sketch/clear-english-bible-audio-nt).
 
+**Sharing:** these readings are freely given — share them widely; copies welcomed. Attribution to Robert Tilford is appreciated.
+
 *Published on this shelf October 18, 2026.*
